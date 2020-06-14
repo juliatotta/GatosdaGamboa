@@ -8,7 +8,7 @@ html {
 }
 
 body {
-    background: white;
+    background: #ffffff;
 }
 
 header h1 {
@@ -18,4 +18,8 @@ header h1 {
 h1, h2, h3, h4, h5, h6, li {
     font-family: 'Indie Flower', cursive;
     color: #322153;
+}
+
+a {
+    text-decoration: none;
 }
