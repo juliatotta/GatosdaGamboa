@@ -1,0 +1,165 @@
+ul#album-fotos {
+    width: 700px;
+    margin: 0 auto;
+    overflow: hidden;
+    list-style: none;
+}
+
+ul#album-fotos li {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 3px solid #ffffff;
+    background-color:#ffffff;
+    box-shadow: 1px 1px 3px rgba(0,0,0,.3);
+    transition: all .4s ease-in;
+}
+
+ul#album-fotos li:hover {
+    transform: scale(1.5);
+}
+
+ul#album-fotos li#gatinho01 {
+    background: url('../_fotos/gatinho01.jpg') no-repeat;
+    background-position: center;
+    background-size: auto;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#gatinho01:hover {
+    background-position: center;
+    background-size: 200px 200px;  
+}
+
+ul#album-fotos li#gatinho02 {
+    background: url('../_fotos/gatinho02.jpg') no-repeat;
+    background-position: center;
+    background-size: auto;
+    background-color: #ffffff;   
+}
+
+ul#album-fotos li#gatinho02:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#gatinho03 {
+    background: url('../_fotos/gatinho03.jpg') no-repeat;
+    background-position: center center;
+    background-size: auto;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#gatinho03:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#gatinho04 {
+    background: url('../_fotos/gatinho04.jpg') no-repeat;
+    background-position: center center;
+    background-size: auto;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#gatinho04:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#gatinho05 {
+    background: url('../_fotos/gatinho05.jpg') no-repeat;
+    background-position: center center;
+    background-size: auto;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#gatinho05:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#gatinho06 {
+    background: url('../_fotos/gatinho06.jpg') no-repeat;
+    background-position: center center;
+    background-size: auto;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#gatinho06:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#gatinho07 {
+    background: url('../_fotos/gatinho07.jpg') no-repeat;
+    background-position: center center;
+    background-size: auto;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#gatinho07:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#gatinho08 {
+    background: url('../_fotos/gatinho08.jpg') no-repeat;
+    background-position: center center;
+    background-size: auto;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#gatinho08:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#gatinho09 {
+    background: url('../_fotos/gatinho09.jpg') no-repeat;
+    background-position: center center;
+    background-size: auto;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#gatinho09:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#gatinho10 {
+    background: url('../_fotos/gatinho10.jpg') no-repeat;
+    background-position: center center;
+    background-size: auto;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#gatinho10:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#gatinho11 {
+    background: url('../_fotos/gatinho11.jpg') no-repeat;
+    background-position: center center;
+    background-size: auto;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#gatinho11:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#gatinho12 {
+    background: url('../_fotos/gatinho12.jpg') no-repeat;
+    background-position: center center;
+    background-size: auto;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#gatinho12:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}

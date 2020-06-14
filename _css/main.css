@@ -23,3 +23,11 @@ h1, h2, h3, h4, h5, h6, li {
 a {
     text-decoration: none;
 }
+
+footer#rodape p {
+    text-align: center;
+    font-size: 10px;
+    color: #333333;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
