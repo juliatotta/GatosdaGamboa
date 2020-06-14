@@ -1,0 +1,106 @@
+@media (min-width: 400px){
+    #page-home .content {
+        align-items: center;
+        text-align: center;
+    }
+    #page-home span#icone {
+        right: 80%;
+        width: 80px;
+        height: 80px;
+        top: 30px;
+    }
+    #page-home nav#menu ul {
+        top: 0px;
+        left: 60%;
+    }
+    #page-home nav#menu li {
+        padding: 5px;
+    }
+    #page-home nav#menu a {
+        font-size: 9px;
+    }
+    #page-home main {
+        max-width: 350px;
+        justify-content: center;
+    }
+    #page-home main p {
+        text-align: justify;
+        font-size: 12px;
+        padding: 10px;
+        text-indent: 5px;
+        margin: auto;
+        line-height: 22px;
+    }
+}
+
+@media (min-width: 600px) {
+    #page-home .content {
+        align-items: center;
+        text-align: center;
+    }
+    #page-home span#icone {
+        right: 70%;
+        width: 85px;
+        height: 85px;
+        top: 40px;
+    }
+    #page-home nav#menu ul {
+        top: 0px;
+        left: 70%;
+    }
+    #page-home nav#menu li {
+        padding: 8px;
+    }
+    #page-home nav#menu a {
+        font-size: 10px;
+    }
+    #page-home main {
+        max-width: 500px;
+        max-height: 350px;
+        justify-content: center;
+    }
+    #page-home main p {
+        text-align: justify;
+        font-size: 13px;
+        padding: 10px;
+        text-indent: 15px;
+        margin: auto;
+        line-height: 23px;
+    }
+}
+
+@media (min-width: 900px){
+    #page-home .content {
+        align-items: center;
+        text-align: center;
+    }
+    #page-home span#icone {
+        right: 70%;
+        width: 100px;
+        height: 100px;
+        top: 50px;
+    }
+    #page-home nav#menu ul {
+        top: 0px;
+        left: 75%;
+    }
+    #page-home nav#menu li {
+        padding: 10px;
+    }
+    #page-home nav#menu a {
+        font-size: 12px;
+    }
+    #page-home main {
+        max-width: 700px;
+        max-height: 370px;
+        justify-content: center;
+    }
+    #page-home main p {
+        text-align: justify;
+        font-size: 15px;
+        padding: 10px;
+        text-indent: 20px;
+        margin: 0px;
+        line-height: 23px;
+    }
+}
