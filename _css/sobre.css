@@ -9,7 +9,7 @@
 
 #page-home span#icone{
     position: absolute;
-    background: url('../_logo/astronauta.svg') no-repeat;
+    background: url('../_logo/sobre.svg') no-repeat;
     right: 700px;
     top: 50px;
     width: 100px;
@@ -43,15 +43,14 @@
     margin-top: 10px;
 
 }
-
-
 #page-home main {
     background-color: #322153;
     display: flex;
     flex-direction: column;
     border-radius: 20px;
-    margin: 20px auto 10px auto;
-    width: 700px;
+    margin-top: 20px;
+    margin-left: 40%;
+    width: 400px;
     height: 370px;
     padding: 10px;
     box-shadow: 2px 2px 1px rgba(230, 239, 251, 0.733);
@@ -64,3 +63,12 @@
     
 }
 
+#page-home .content span#foto{
+    position: absolute;
+    background: url('../_fotos/juliat.jpg') no-repeat;
+    width: 100%;
+    height: 100%;
+    margin-top: 280px;
+    margin-left: 28%;
+
+}
