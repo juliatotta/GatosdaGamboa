@@ -1,66 +1,33 @@
-#page-home .content {
-    width: 90%;
-    max-width: 1100px;
-    height: 100%;
-    margin: 0 auto;
-    display: flex;
-    flex-direction: column;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-family: 'Roboto', sans-serif;
 }
 
-#page-home span#icone{
-    position: absolute;
-    background: url('../_logo/astronauta.svg') no-repeat;
-    right: 700px;
-    top: 50px;
-    width: 100px;
-    height: 100px;
-
+body {
+    background: #ffffff;
 }
 
-#page-home p {
-    font-size: 15px;
-    color: #ffffff;
-    font-weight: bolder;
+header h1 {
+    font-family: 'Bellota', cursive;
 }
 
-#page-home header#cabecalho {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-
+h1, h2, h3, h4, h5, h6, li {
+    font-family: 'Indie Flower', cursive;
+    color: #322153;
 }
 
-#page-home header#cabecalho h1 {
-    display: flex;
-    margin-top: 100px;
-
+a {
+    text-decoration: none;
 }
 
-#page-home header#cabecalho h4 {
-    display: flex;
-    font-size: 15px;
-    line-height: 20px;
+footer#rodape p {
+    text-align: center;
+    font-size: 10px;
+    color: #333333;
     margin-top: 10px;
-
+    margin-bottom: 20px;
 }
-
-
-#page-home main {
-    background-color: #322153;
-    display: flex;
-    flex-direction: column;
-    border-radius: 20px;
-    margin: 20px auto 10px auto;
-    width: 700px;
-    height: 370px;
-    padding: 10px;
-    box-shadow: 2px 2px 1px rgba(230, 239, 251, 0.733);
-
-}
-
-#page-home main p {
-    text-align: justify;
-    text-indent: 20px;
-    
-}
-
