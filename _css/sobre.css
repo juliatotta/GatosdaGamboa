@@ -49,7 +49,6 @@
     flex-direction: column;
     border-radius: 20px;
     margin-top: 20px;
-    margin-left: 40%;
     width: 400px;
     height: 370px;
     padding: 10px;
@@ -57,18 +56,19 @@
 
 }
 
-#page-home main p {
-    text-align: justify;
-    text-indent: 20px;
-    
+#page-home main a {
+    text-decoration: none;
+    font-size: 12px;
+    color: #ffffff;
+    font-weight: bolder;
+      
 }
 
-#page-home .content span#foto{
-    position: absolute;
-    background: url('../_fotos/juliat.jpg') no-repeat;
-    width: 100%;
-    height: 100%;
-    margin-top: 280px;
-    margin-left: 28%;
-
+#page-home main p {
+    text-align: justify;
+    font-size: 12px;
+    padding: 10px;
+    text-indent: 5px;
+    margin: auto;
+    line-height: 28px;
 }
