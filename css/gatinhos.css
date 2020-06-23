@@ -9,7 +9,7 @@
 
 #page-home span#icone{
     position: absolute;
-    background: url('../_logo/selfie.svg') no-repeat;
+    background: url('../logo/selfie.svg') no-repeat;
     right: 700px;
     top: 50px;
     width: 100px;
