@@ -1,3 +1,15 @@
 # GatosdaGamboa
 Esse é um projeto pessoal (ainda em construção) de um site para os gatinhos que residem na minha rua. 
-Como a minha rua é praticamente um gatil, pensei em unir o útil ao agradável: estudar Desenvolvimento Web criando um site para mostrar para vocês as belezuras que vivem aqui. O projeto não é sobre adoção, até mesmo porque muitos gatinhos nasceram e foram criados nessa rua e já estão super acostumados, mas, sim, para mostrar para as pessoas que é super possível ajudar os bichinhos de rua sem necessariamente levá-los para dentro de casa. Uma boa parte da minha vizinhança alimentam os gatinhos diariamente, e alguns até ajudam na vaquinha para fazer a castração deles. Enfim... esse projeto está sendo ótimo para meus estudos e, quando finalizar, focarei em fazer um README bem legalzinho. <3 
+
+<h2>Página Inicial</h2>
+
+<img width="1225" alt="Screen Shot 2020-07-29 at 14 25 18" src="https://user-images.githubusercontent.com/32882425/88832730-9a7f5080-d1a7-11ea-8078-e15bcb3178fd.png">
+
+<h2>Galeria de Fotos</h2>
+
+<img width="1175" alt="Screen Shot 2020-07-29 at 14 26 06" src="https://user-images.githubusercontent.com/32882425/88832753-a2d78b80-d1a7-11ea-9f7f-ae6b72aef340.png">
+
+<h2>Sobre mim</h2>
+
+<img width="1156" alt="Screen Shot 2020-07-29 at 14 26 20" src="https://user-images.githubusercontent.com/32882425/88832774-ab2fc680-d1a7-11ea-8b16-2b6a053ce71f.png">
+
